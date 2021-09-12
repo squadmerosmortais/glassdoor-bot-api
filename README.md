@@ -1,6 +1,6 @@
 # glassdoor-bot-api
 
-API to collect data from companies on Glassdoor and analyze it in a funny way.
+API to serve [glassdoor-bot](https://github.com/squadmerosmortais/glassdoor-bot) app.
 
 ## TODO
 - Crawler to collect the data from Glassdoor (maybe can be moved to another repo)
